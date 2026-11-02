@@ -1,2 +1,2 @@
 # gitbasicyt
-just a tutorail.
+just a tutorial.
